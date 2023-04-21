@@ -24,7 +24,7 @@
     "@angular/material": "^13.2.5",
     "@angular/platform-browser": "^14.3.0",
     "@angular/platform-browser-dynamic": "^14.3.0",
-    "@angular/pwa": "^13.2.5",
+    "@angular/pwa": "^14.2.10",
     "@angular/router": "^14.3.0",
     "@angular/service-worker": "^14.3.0",
     "@ionic-native/core": "^5.36.0",
@@ -35,7 +35,7 @@
     "moment": "^2.29.1",
     "ngx-build-plus": "^11.0.0",
     "recursive-readdir": "^2.2.3",
-    "rxjs": "~7.5.4",
+    "rxjs": "~7.4.0",
     "tslib": "^2.3.1",
     "zone.js": "~0.11.5"
   },
